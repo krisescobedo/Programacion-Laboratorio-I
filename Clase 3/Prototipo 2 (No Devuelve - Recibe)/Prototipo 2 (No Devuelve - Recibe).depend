@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535669222 source:c:\users\gerardo escobedo\desktop\uba xxi && utn\utn\programacion i- kristian\programacion-laboratorio-i\prototipo 2 (no devuelve - recibe)\main.c
+	<stdio.h>
+	<stdlib.h>
+
