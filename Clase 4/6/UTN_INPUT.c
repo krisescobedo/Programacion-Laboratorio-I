@@ -12,10 +12,10 @@ int pedirEntero(int*, char[],int,int)
 int validarEntero(int numero, char texto[], int min, int max)
     {
          while(numero>min || numero<max)
-    {
-        printf("Reingrese %s",texto);
-        scanf("%d", &numero);
-    }
+        {
+            printf("Reingrese %s",texto);
+            scanf("%d", &numero);
+        }
     }
 
     return numero;
